@@ -1,6 +1,6 @@
 # SQL report showing movie trends
 
-![](IMDB Image.jpg)
+![](https://github.com/Ajay96700/Explore-Movie-Rating/blob/main/IMDB%20Image.jpg)
 
 ## Objective
  - Find top-rated genres over time.
