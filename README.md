@@ -1,6 +1,6 @@
 # SQL report showing movie trends
 
-![Image](IMDB Image.jpg)
+![](IMDB Image.jpg)
 
 ## Objective
  - Find top-rated genres over time.
