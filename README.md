@@ -1,5 +1,7 @@
 # SQL report showing movie trends
 
+![Image](IMDB Image.jpg)
+
 ## Objective
  - Find top-rated genres over time.
  - Compare critics’ vs. audience scores.
