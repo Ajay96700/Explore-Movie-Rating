@@ -42,7 +42,7 @@ group by Decades
 order by Decades
 ```
 
-##Identify highest-grossing movies by decade.
+## Identify highest-grossing movies by decade.
 ```SQL
 with CTE as (
 select *,
